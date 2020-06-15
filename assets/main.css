@@ -1,0 +1,23 @@
+h3 {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+img {
+  max-width: 100%;
+}
+
+body {
+  text-align: center;
+}
+
+div {
+  max-width: 20%;
+  display: inline-block;
+  justify-content: center;
+}
+
+h5 {
+  text-align: center;
+  margin-top: 0;
+}
