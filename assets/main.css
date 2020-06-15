@@ -1,10 +1,11 @@
-h3 {
-  text-align: center;
-  margin-bottom: 50px;
+header {
+  margin-bottom: 0;
+  margin-top: 20px;
+  /* height: 400px; */
 }
 
 img {
-  max-width: 50%;
+  max-width: 90%;
 }
 
 body {
@@ -14,10 +15,12 @@ body {
 div {
   max-width: 20%;
   display: inline-block;
-  justify-content: center;
+  margin: 20px auto;
 }
 
 h5 {
   text-align: center;
   margin-top: 0;
+  font-family: "Noto Sans", sans-serif;
+  font-size: 20px;
 }
